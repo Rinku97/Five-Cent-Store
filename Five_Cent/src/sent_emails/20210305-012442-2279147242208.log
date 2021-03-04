@@ -1,0 +1,23 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: 
+From: webmaster@localhost
+To: rinkurb0@gmail.com
+Date: Thu, 04 Mar 2021 19:54:42 -0000
+Message-ID: <161488768270.9876.16287324372930277031@LAPTOP-FT9R9DBV>
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h4>password_reset_email.html</h4>-->
+<!--</body>-->
+<!--</html>-->
+
+Someone asked for password reset for email rinkurb0@gmail.com. Follow the link below:
+http://127.0.0.1:8000/accounts/reset/MQ/aj0jx6-a3474b1cc3e8f38b1494ebcbe5e7142f/
+-------------------------------------------------------------------------------

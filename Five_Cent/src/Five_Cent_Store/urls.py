@@ -20,8 +20,11 @@ from django.conf.urls.static import static
 
 urlpatterns = [
 
+    path('accounts/', include('django.contrib.auth.urls')),
     path('admin/', admin.site.urls),
     path('products/', include('Five_Cent.urls', namespace='products')),
+    # path('accounts/', include('accounts.urls', namespace='accounts')),
+
 
 ]
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
