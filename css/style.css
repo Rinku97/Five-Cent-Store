@@ -1154,7 +1154,6 @@ ul.location li:nth-child(2) {
 }
 .footer-logo a:before {
     content: "";
-    position: absolute;
     top: 50%;
     left: 0;
     width: 44%;
@@ -1163,7 +1162,6 @@ ul.location li:nth-child(2) {
 }
 .footer-logo a:after {
     content: "";
-    position: absolute;
     top: 50%;
     right: 0;
     width: 44%;
